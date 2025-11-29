@@ -1,169 +1,205 @@
-<div align="center">
-
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ana%20Pizana&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20%26%20LLM%20ENGINEER&descAlignY=60&descSize=20" />
-
-</div>
-
-## 🧑‍💻 About Me
-
-<img align="right" height="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"  />
-
-AI/LLM Engineer | Cybersecurity Policy | CMU '24 | BNY AI Governance
-Multi-Agent Systems • RAG • Responsible AI • NLP
-🏆 Atlantic Council 9/12 Winner | 📄 ACL
-
-Currently working as **Al Engineer, Senior Associate** at **BANK OF NEW YORK**, where I focus on BNY AI Governance Data Scientist: Chair of Responsible AI (RAI) Review Board, a cross-functional com...
-
-<div align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=aalfaropizana.aalfaropizana" />
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aalfaropizana&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalfaropizana&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aalfaropizana&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aalfaropizana&theme=react-dark&hide_border=true" />
-</div>
-
-## 🛠️ Technology Arsenal
+<!-- 
+   █████╗ ███╗   ██╗ █████╗     ██████╗ ██╗███████╗ █████╗ ███╗   ██╗ █████╗ 
+  ██╔══██╗████╗  ██║██╔══██╗    ██╔══██╗██║╚══███╔╝██╔══██╗████╗  ██║██╔══██╗
+  ███████║██╔██╗ ██║███████║    ██████╔╝██║  ███╔╝ ███████║██╔██╗ ██║███████║
+  ██╔══██║██║╚██╗██║██╔══██║    ██╔═══╝ ██║ ███╔╝  ██╔══██║██║╚██╗██║██╔══██║
+  ██║  ██║██║ ╚████║██║  ██║    ██║     ██║███████╗██║  ██║██║ ╚████║██║  ██║
+  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+-->
 
 <div align="center">
 
-### Programming Languages
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
-  <img src="https://skillicons.dev/icons?i=jupyternotebook" height="40" alt="Jupyter Notebook logo" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ana%20Pizana&fontSize=60&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20LLM%20Engineer%20•%20Cybersecurity%20•%20NLP%20Researcher&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
-### Frameworks & Tools
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=numpy" height="40" alt="NumPy logo" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="Pandas logo" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="MatLab logo" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow logo" />
-  <img src="https://skillicons.dev/icons?i=scikitlearn" height="40" alt="Scikit-learn logo" />
-  <img src="https://skillicons.dev/icons?i=nltk" height="40" alt="NLTK logo" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch logo" />
-</div>
+<br/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&random=false&width=600&lines=AI+Governance+%7C+288%2B+Models+Reviewed;NLP+Research+%7C+ACL'24+Published;Legal+AI+%7C+Patent+Inventor;Cybersecurity+%7C+1st+Place+Atlantic+Council)](https://git.io/typing-svg)
 
-## 🚀 Featured Projects
+<br/>
 
-<div align="center">
+<!-- Contact Badges -->
+<a href="mailto:aalfaropizana@gmail.com">
+  <img src="https://img.shields.io/badge/Email-e94560?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/aalfaropizana">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=firefox&logoColor=e94560"/>
+</a>
 
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <a href="https://github.com/aalfaropizana/contribution-history">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aalfaropizana&repo=contribution-history&theme=radical" />
-  </a>
-  <a href="https://github.com/aalfaropizana/aalfaropizana.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aalfaropizana&repo=aalfaropizana.github.io&theme=radical" />
-  </a>
-</div>
+<br/><br/>
 
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <a href="https://github.com/aalfaropizana/generating-synthetic-data-using-gans">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aalfaropizana&repo=generating-synthetic-data-using-gans&theme=radical" />
-  </a>
-  <a href="https://github.com/aalfaropizana/thesis-option-pricing-with-deep-learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aalfaropizana&repo=thesis-option-pricing-with-deep-learning&theme=radical" />
-  </a>
-</div>
-
-<div style="display: flex; gap: 20px; margin-bottom: 20px;">
-  <a href="https://github.com/aalfaropizana/llms-in-finance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aalfaropizana&repo=llms-in-finance&theme=radical" />
-  </a>
-  <a href="https://github.com/aalfaropizana/lawglance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aalfaropizana&repo=lawglance&theme=radical" />
-  </a>
-</div>
+🌎 **English** • **Spanish** • **French** &nbsp;|&nbsp; 📍 Pittsburgh, PA &nbsp;|&nbsp; 🏦 Bank of New York
 
 </div>
 
-## 💼 Professional Journey
+---
+
+## 🎯 About Me
+
+```python
+class AnaP:
+    def __init__(self):
+        self.role = "AI Engineer, Senior Associate @ Bank of New York"
+        self.education = {
+            "masters": "Carnegie Mellon University - Information Security Policy & Management",
+            "bachelors": "ITAM - Statistics & Political Science (CS Minor)"
+        }
+        self.focus_areas = ["AI Governance", "LLM Validation", "Legal AI", "NLP", "Cybersecurity"]
+        self.languages = ["English", "Spanish", "French"]
+        
+    def current_impact(self):
+        return {
+            "models_reviewed": "288+ AI/ML models as RAI Review Board Chair",
+            "models_validated": "43 production models across BNY's Lines of Business",
+            "innovation": "Patent pending for LLM Hallucination Testing Pipeline"
+        }
+```
+
+---
+
+## 🏆 Highlights
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 Research & Innovation
+- 📄 **ACL'24 Paper** — World's first MIXTEC language AI translator
+- 🔐 **Patent Pending** — LLM Hallucination & Edge Case Testing
+- 🧠 **288+ Models** — Chaired as RAI Review Board
+
+</td>
+<td width="50%">
+
+### 🏅 Recognition
+- 🥇 **1st Place** — Atlantic Council 9/12 Cybersecurity Challenge
+- 🥉 **4th Place** — McGinnis Venture Competition (150 CMU startups)
+- 🚀 **Olympus Incubator** — Swartz Center for Entrepreneurship
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
 
 <details>
-<summary>📈 Career Timeline</summary>
+<summary><b>🏦 AI Engineer, Senior Associate — Bank of New York</b> &nbsp;(Jul 2024 – Present)</summary>
+<br/>
 
-### 1. Al Engineer, Senior Associate @ BANK OF NEW YORK
-**Jul. 2024-**
-
-BNY AI Governance Data Scientist: Chair of Responsible AI (RAI) Review Board, a cross-functional committee composed of 15 Senior Directors
-representing Cybersecurity, Legal, and Risk. where I am responsible for conducting in-depth reviews of AI/ML models in advance of daily board
-meetings, identifying key risk areas and points for discussion. So far, I have chaired and reviewed 288 models focusing on analizing performance,
-architecture, the legality of the data use and potential privacy and security concerns.
-BNY Al Model Risk Data Scientist: Validated a total of 43 models deployed across BNY's LoBs - ranging from: Al Highly Speculative Securities
-Analysis, Retail LockBox Checks Automation, Wealth Management Market Summarizers, Al Trade Finance MT799 Loan Automation, Al Credit
-Underwriting, CA3 Credit Approval, Al Pershing Sanctions Processing, etc. As a validator, I ensure model outcomes demonstrate satisfactory
-outcomes in a predictable manner through representative sampling, continuous evaluation, OPM monitoring, benchmark curation, as well as
-back-testing, reference point analysis, and replication testing for ML & LLM internal usecases.
-BNY AI Model Risk Innovation Data Scientist (Patent under Reivew): Innovated evaluation pipelines for Hallucination Testing, Error/Root Cause
-Analysis and Edge Case Testing- including adversarial and low frequency testing that can be reused across LLMs performing similar capabilities.
-
----
-
-### 2. Natural Language Processing Engineer Intern @ LANGUAGE TECH. INSTITUTE, SCHOOL OF COMPUTER SCIENCE, CARNEGIE MELLON UNIVERSITY
-**Jun. 2023 - Sep. 2023**
-
-Data Augmentation: Leveraged existing datasets and ODIN database to address data scarcity in low-resource languages (SIGMOREFUN Team)
-Modeling: Built a low resource language conversational Al system and the world first Al translator for MIXTEC language. Used Rust, ByT5 and
-WFST sequence-to-sequence model and enhanced a RoBERTa-derived token classification model, introducing methods, e.g., the "copy" token
-Results: Token classification models outperformed sequence-to-sequence models, with plans for future refinement and expanded data collec-
-tion. Paper accepted in one of the top 3 NLP conferences: the Association for Computational Linguistics (ACL'24)
-
----
-
-### 3. Data Engineer @ DEPARTMENT OF INTELLIGENCE AND INNOVATION, SUPREME COURT OF JUSTICE OF THE NATION
-**Jun. 2021 - Jul 2022**
-
-Designed the nation's first PostgreSQL relational database of 17,000 attributes for information generated by the Federal Justice System
-• Programmed Natural Language Processing functions that parsed and tagged legal terminology of Trial Sentences
-Drafted policies and guidelines that govern the Federal Direction of Innovation and Digital Transformation
-
----
+| Role | Impact |
+|------|--------|
+| **RAI Review Board Chair** | Lead cross-functional committee of 15 Senior Directors across Cybersecurity, Legal, and Risk |
+| **Model Governance** | Reviewed 288+ AI/ML models for performance, architecture, data legality, privacy & security |
+| **Model Validation** | Validated 43 production models: Credit Underwriting, Sanctions Processing, Trade Finance |
+| **Innovation** | Developed reusable evaluation pipelines for hallucination testing & adversarial edge cases |
 
 </details>
 
-## 🤝 Let's Connect & Collaborate
+<details>
+<summary><b>🔬 NLP Engineer Intern — Carnegie Mellon LTI</b> &nbsp;(Jun 2023 – Sep 2023)</summary>
+<br/>
+
+- Built the **world's first AI translator for MIXTEC** (low-resource indigenous language)
+- Developed RoBERTa-derived token classification with novel "copy" token method
+- **Paper accepted at ACL'24** — one of the top 3 NLP conferences globally
+
+</details>
+
+<details>
+<summary><b>⚖️ Data Engineer — Supreme Court of Justice of Mexico</b> &nbsp;(Jun 2021 – Jul 2022)</summary>
+<br/>
+
+- Designed nation's first PostgreSQL database with **17,000 attributes** for Federal Justice System
+- Built NLP pipelines for parsing and tagging legal terminology in trial sentences
+- Drafted policies governing Federal Direction of Innovation & Digital Transformation
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<h3>💬 Ready to bring ideas to life? Let's chat!</h3>
-
-<a href="mailto:aalfaropizana@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-  <a href="https://github.com/aalfaropizana">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </a>
+| AI/ML & NLP | Data & Backend | Security & Cloud |
+|:-----------:|:--------------:|:----------------:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) |
+| NLTK • HuggingFace • spaCy | NumPy • Pandas • MATLAB | Snort • Suricata • SiLK |
 
 </div>
 
 ---
 
+## 📂 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚖️ [NLegal](https://github.com/aalfaropizana/NLegal-Landing3)
+**Legal AI Platform** — LLM systems for legal processes  
+`🏆 McGinnis Venture Competition Finalist`
+
+</td>
+<td width="50%">
+
+### 🔐 [ZKP Chain of Custody](https://github.com/aalfaropizana/zkp-chain-of-custody-v1)
+**Zero-Knowledge Proofs** for secure evidence tracking  
+`Python` `Cryptography` `Privacy`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📰 [News Scrapers](https://github.com/aalfaropizana/Scrappers)
+**Multi-source data collection** from 200+ newspapers  
+`Python` `BeautifulSoup` `Selenium`
+
+</td>
+<td width="50%">
+
+### 🔤 [WFSTs](https://github.com/aalfaropizana/WFSTs)
+**Weighted Finite State Transducers** for NLP  
+`Python` `Computational Linguistics`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-### 🐍 Watch my commits get eaten!
+<img src="https://github-readme-stats.vercel.app/api?username=aalfaropizana&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=eaeaea" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalfaropizana&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=eaeaea" height="165"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aalfaropizana/aalfaropizana/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aalfaropizana/aalfaropizana/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aalfaropizana/aalfaropizana/output/github-contribution-grid-snake.svg">
-</picture>
+</div>
 
-<h3>💭 Random Dev Quote</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+## 📜 Publications & Research
+
+| Paper | Venue | Focus |
+|-------|-------|-------|
+| **Low-Resource Language Conversational AI for MIXTEC** | ACL 2024 | NLP, Endangered Languages |
+| **Smart Assistance for Criminal Processes** | Patent (CMU) | Legal AI Innovation |
+| **Blockchain for Women in International Commerce** | WTO Chairs Programme | Blockchain, Trade Law |
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer"/>
+
+**💡 Open to collaborations in AI Governance, Legal Tech, and NLP Research**
+
+<img src="https://komarev.com/ghpvc/?username=aalfaropizana&color=e94560&style=flat-square&label=Profile+Views"/>
 
 </div>
