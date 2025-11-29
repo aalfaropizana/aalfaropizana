@@ -1,15 +1,6 @@
-<!-- 
-   █████╗ ███╗   ██╗ █████╗     ██████╗ ██╗███████╗ █████╗ ███╗   ██╗ █████╗ 
-  ██╔══██╗████╗  ██║██╔══██╗    ██╔══██╗██║╚══███╔╝██╔══██╗████╗  ██║██╔══██╗
-  ███████║██╔██╗ ██║███████║    ██████╔╝██║  ███╔╝ ███████║██╔██╗ ██║███████║
-  ██╔══██║██║╚██╗██║██╔══██║    ██╔═══╝ ██║ ███╔╝  ██╔══██║██║╚██╗██║██╔══██║
-  ██║  ██║██║ ╚████║██║  ██║    ██║     ██║███████╗██║  ██║██║ ╚████║██║  ██║
-  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ana%20Pizana&fontSize=60&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20LLM%20Engineer%20•%20Cybersecurity%20•%20NLP%20Researcher&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Ana%20Pizana&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20NLP%20Researcher&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
 <br/>
 
